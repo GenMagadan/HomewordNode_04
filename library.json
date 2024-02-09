@@ -1,1 +1,16 @@
-[{"id":1,"author":"Azimov","book_title":"Base","number_of_book_characters":50000,"genre":"fantastic"},{"id":2,"author":"Heinlein","book_title":"Starship Troopers","number_of_book_characters":100000,"genre":"fantastic"},{"id":3,"book_title":"Onegin","author":"Pushkin","number_of_book_characters":80000,"genre":"poetry"},{"id":5,"author":"Azimov","book_title":"The gods themselves","number_of_book_characters":100000,"genre":"fantastic"}]
+[
+  {
+    "id": 1,
+    "author": "Azimov",
+    "book_title": "Base",
+    "number_of_book_characters": 50000,
+    "genre": "fantastic"
+  },
+  {
+    "id": 2,
+    "author": "Heinlein",
+    "book_title": "Starship Troopers",
+    "number_of_book_characters": 100000,
+    "genre": "fantastic"
+  }
+]
