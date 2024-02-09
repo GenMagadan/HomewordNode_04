@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "author": "Azimov",
+    "book": "Base",
+    "number_of_book_characters": 50,
+    "genre": "fantastic"
+  }
+]
